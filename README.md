@@ -6,7 +6,7 @@
 
 1. [本サイト](https://matsuand.github.io/docs.docker.jp.onthefly/get-docker/) のリンクから、 Docker をダウンロード・インストールする。
 
-1. [本サイト]([https://qiita.com/75ks/items/b2961e8562c353f42d21](https://qiita.com/75ks/items/b2961e8562c353f42d21#vscode%E3%81%8B%E3%82%89%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%81%AB%E6%8E%A5%E7%B6%9A))などを参考に VSCode に [Devcontainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) をインストールする。
+1. [本サイトの『左サイドバーの拡張機能で「Dev Containers」を検索し、インストール』](https://qiita.com/75ks/items/b2961e8562c353f42d21#%E5%B7%A6%E3%82%B5%E3%82%A4%E3%83%89%E3%83%90%E3%83%BC%E3%81%AE%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%81%A7dev-containers%E3%82%92%E6%A4%9C%E7%B4%A2%E3%81%97%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB) を参考に VSCode に [Devcontainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) をインストールする。
 
 ## 実行手順
 
