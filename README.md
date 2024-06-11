@@ -22,7 +22,8 @@
 
 1. 本リポジトリをクローンまたは、[本リンク](https://github.com/kyuki-rp/foundryup/archive/refs/heads/master.zip) から zip ファイルをダウンロードし、そのまま解凍する。
 
-1. Makefile を開いて、5 行目の `you@example.com` および 6 行目の `Your Name` を自身の環境に合わせ編集する。（コミット等を行わないのであれば本手順を飛ばしても問題ありません。）
+1. （※任意） Makefile を開いて、5 行目の `you@example.com` および 6 行目の `Your Name` を自身の環境に合わせ編集する。  
+   よく分からない場合や、コードをコミットしないようであれば次の手順に移って下さい。
 
    ```Makefile
    @git config --global user.email "you@example.com"
