@@ -20,7 +20,7 @@
 
 ### ローカル環境で利用する場合
 
-1. 本リポジトリをクローンまたは、[本リンク](https://github.com/kanap0nta/foundryup/archive/refs/heads/master.zip) から zip ファイルをダウンロードし、そのまま解凍する。
+1. 本リポジトリをクローンまたは、[本リンク](https://github.com/kyuki-rp/foundryup/archive/refs/heads/master.zip) から zip ファイルをダウンロードし、そのまま解凍する。
 
 1. Makefile を開いて、5 行目の `you@example.com` および 6 行目の `Your Name` を自身の環境に合わせ編集する。（コミット等を行わないのであれば本手順を飛ばしても問題ありません。）
 
