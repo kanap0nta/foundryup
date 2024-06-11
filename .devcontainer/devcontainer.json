@@ -11,7 +11,7 @@
 		"--security-opt",
 		"seccomp=unconfined"
 	],
-		"mounts": [
+	"mounts": [
 		"type=volume,source=simple-dao-tmp-volume,target=${containerWorkspaceFolder}/simple-dao"
 	],
 	"customizations": {
